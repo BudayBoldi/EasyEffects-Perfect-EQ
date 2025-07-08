@@ -7,7 +7,7 @@
             "boost-threshold": -60.0,
             "bypass": false,
             "dry": -100.0,
-            "hpf-frequency": 440.0,
+            "hpf-frequency": 250.0,
             "hpf-mode": "24 dB/oct",
             "input-gain": 0.0,
             "knee": -23.9,
