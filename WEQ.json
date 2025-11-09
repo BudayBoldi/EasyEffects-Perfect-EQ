@@ -331,10 +331,21 @@
             "stereo-link": 100.0,
             "threshold": 0.0
         },
+        "loudness#0": {
+            "bypass": false,
+            "clipping": false,
+            "clipping-range": 6.0,
+            "fft": "4096",
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "std": "ISO226-2003",
+            "volume": -20.0
+        },
         "plugins_order": [
             "compressor#0",
             "equalizer#0",
-            "limiter#0"
+            "limiter#0",
+            "loudness#0"
         ]
     }
 }
