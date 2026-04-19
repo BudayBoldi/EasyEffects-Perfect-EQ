@@ -141,7 +141,7 @@
             },
             "mode": "IIR",
             "num-bands": 12,
-            "output-gain": 0.0,
+            "output-gain": -10.0,
             "pitch-left": 0.0,
             "pitch-right": 0.0,
             "right": {
@@ -290,7 +290,7 @@
             "mode": "IIR",
             "output-gain": 0.0,
             "std": "ISO226-2003",
-            "volume": 2.0
+            "volume": 3.0
         },
         "plugins_order": [
             "equalizer#0",
